@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rt2zz/redux-persist-crosstab.git"
+    "url": "git+https://github.com/jpggvilaca/redux-persist-crosstab.git"
   },
-  "homepage": "https://github.com/rt2zz/redux-persist-crosstab",
+  "homepage": "https://github.com/jpggvilaca/redux-persist-crosstab",
   "keywords": [
     "redux",
     "localstorage",
@@ -19,7 +19,7 @@
     "redux-rehydrate"
   ],
   "peerDependencies": {
-    "redux-persist": ">=3.5.0"
+    "redux-persist": "^5.10.0"
   },
   "author": "rt2zz <zack@root-two.com>",
   "license": "MIT"
